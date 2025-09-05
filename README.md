@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Amine👋, a web developer with over two years of experience, I like building web applications 🌐 using JavaScript frameworks and tools 🔭, I'm always seeking continuous improvement 🚀 and I love learning about new web technologies 🌱 
+Hi I'm Amine👋, a web engineer with over two years of experience, I like building web applications 🌐 using JavaScript frameworks and tools 🔭, I'm always seeking continuous improvement 🚀 and I love learning about new web technologies 🌱 
 
 
 ## 🌐 Socials:
